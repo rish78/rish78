@@ -39,3 +39,5 @@ I'm a student at the Indian Institute of Information Technology, Gwalior, India.
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish78&theme=cobalt&hide_border=false"/>
     </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=rish78&color=green)
