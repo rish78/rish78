@@ -36,6 +36,6 @@ I'm a student at the Indian Institute of Information Technology, Gwalior, India.
 <br>
 <p align="center">
   <a href="https://github.com/rish78">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish78&theme=cobalt&hide_border=true"/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish78&theme=cobalt&hide_border=false"/>
     </a>
 </p>
