@@ -29,7 +29,7 @@ I'm a student at the Indian Institute of Information Technology, Gwalior, India.
   
 <p align="center">
 <a href="https://github.com/rish78">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=rish78&show_icons=true&theme=tokyonight" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api?username=rish78&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rish78&count_private=true&hide=c&theme=tokyonight" />
 </a>
 </p>
